@@ -16,6 +16,7 @@
     padding: 8px;
     transition: 0.4s;
     background-color: white;
+    font-size: 24px;
 }
 
 .tab button:hover {
@@ -68,6 +69,12 @@ p {
     text-align: center;
     overflow: hidden;
     background-color: white;
+}
+
+.gameDiv:hover {
+    cursor: pointer;
+    background-color: slateblue;
+    transition: 0.25s;
 }
 
 body {
